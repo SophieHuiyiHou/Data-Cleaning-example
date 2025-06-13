@@ -1,21 +1,24 @@
 # Data Cleaning Example – Correcting Data Types
 
-This Jupyter Notebook demonstrates essential **data cleaning techniques** using Python, with a focus on **correcting incorrect data types** in a dataset. This task was completed as part of a university-level assignment in data analysis.
+This repository showcases a basic data cleaning task performed using Python and pandas in a Jupyter Notebook. The notebook focuses on identifying and correcting incorrect data types in a dataset and visualizing the cleaned data.
 
-## 📘 Project Overview
+## 📘 Project Summary
 
-- Load and inspect a raw dataset
-- Identify incorrect data types (e.g., numerical values stored as strings)
-- Convert columns to appropriate formats
-- Visualize key distributions using seaborn/matplotlib
-- Perform basic validation after type correction
+- Dataset: `D1.csv`
+- Task: Fix incorrect data types in the dataset
+- Tools: Python, pandas, numpy, seaborn, matplotlib
+- Output: Cleaned data visualizations and summaries
 
-## 📂 Folder Structure
+## 📂 Files
 
-project-root/
-├── notebooks/
-│ └── Data_cleaning_example.ipynb ← Main Jupyter notebook
-├── data/
-│ └── sample_data.csv ← (Optional) if non-sensitive
-├── requirements.txt ← Python dependencies
-├── README.md ← This file
+- `Data_cleaning_example.ipynb` – Jupyter notebook containing the code and analysis
+- `D1.csv` – Sample dataset used for the exercise
+- `requirement.txt` – List of required Python libraries (use `pip install -r requirement.txt`)
+- `README.md` – Project documentation (this file)
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Data-Cleaning-example.git
+   cd Data-Cleaning-example
