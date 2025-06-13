@@ -20,5 +20,5 @@ This repository showcases a basic data cleaning task performed using Python and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Cleaning-example.git
+   git clone https://github.com/SophieHuiyiHou/Data-Cleaning-example.git
    cd Data-Cleaning-example
