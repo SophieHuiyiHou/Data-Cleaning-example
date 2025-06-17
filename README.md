@@ -31,6 +31,6 @@ This repository showcases a basic data cleaning task performed using Python and 
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Data_cleaning_example.ipynb
+   jupyter notebook "Data_cleaning_example.ipynb"
    ```
 
