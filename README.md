@@ -22,3 +22,15 @@ This repository showcases a basic data cleaning task performed using Python and 
    ```bash
    git clone https://github.com/SophieHuiyiHou/Data-Cleaning-example.git
    cd Data-Cleaning-example
+   ```
+
+2. Install required packages:
+   ```bash
+   pip install -r requirement.txt
+   ```
+
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook Data_cleaning_example.ipynb
+   ```
+
